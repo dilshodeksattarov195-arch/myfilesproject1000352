@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercelete",
+        "uuid": 2385152,
+        "checksum": "g7u3nc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
